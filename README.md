@@ -1,4 +1,4 @@
-### Hi there 👋
+### E aí!👋 Seja bem vindo ao meu Git </>😄
 
 <!--
 **oeduardosartori/oeduardosartori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
