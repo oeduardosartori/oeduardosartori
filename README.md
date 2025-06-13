@@ -48,7 +48,7 @@ Atuo com metodologias ágeis (Scrum e Kanban) e já trabalhei com **Apache Kafka
 
 ## 📫 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-sartori/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oeduardosartori/)
 - 💻 Repositórios em destaque logo abaixo 👇
 - ✉️ oeduardosartori@icloud.com
 - 🌍 Três Coroas – RS, Brasil
