@@ -6,11 +6,11 @@ Desenvolvedor de Software com foco em Backend, sempre buscando soluções bem es
 
 ## Sobre
 
-Sou desenvolvedor full stack com maior afinidade no backend. Tenho atuado na construção de soluções performáticas, seguras e organizadas, utilizando tecnologias modernas e boas práticas de engenharia de software.
+Sou desenvolvedor full stack com maior afinidade no backend. Nos últimos dois anos tenho entregue aplicações de negócio performáticas e seguras com **Java (Spring Boot)** e **.NET (C#)**, utilizando **Angular** no frontend e bancos **SQL Server** e **MongoDB**. No fluxo de entrega, uso **Git**, **Azure DevOps** e pipelines **CI/CD**, aplicando princípios de **Clean Code** e **SOLID** para garantir código sustentável.
 
-Possuo 2 anos de experiência com Java (Spring Boot), .NET (C#), Angular, SQL Server, MongoDB e Azure DevOps. Já participei de projetos com arquitetura de microsserviços, comunicação assíncrona com Kafka e automação de pipelines CI/CD.
+Atualmente aprofundo meus estudos em **arquitetura de microsserviços**, **comunicação assíncrona com Apache Kafka** e **testes automatizados**. Meu objetivo é aplicar esses conceitos em projetos de produção que exijam escalabilidade, resiliência e consistência de dados.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas pela UNINTER e venho me aprofundando em arquitetura backend com Java, testes automatizados e práticas DevOps.
+Hoje mantenho aprendizado contínuo por meio de projetos pessoais, leitura técnica e participação em comunidades de engenharia de software.
 
 ---
 
