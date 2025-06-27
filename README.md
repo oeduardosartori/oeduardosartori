@@ -1,60 +1,71 @@
-# 👋 Olá! Eu sou o Eduardo Sartori
+# Eduardo Sartori
 
-🎯 Desenvolvedor de Software | Apaixonado por resolver problemas com tecnologia
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou um desenvolvedor full stack com foco em backend, apaixonado por construir soluções práticas, escaláveis e de alta performance. Atualmente, tenho 2 anos de experiência trabalhando com tecnologias como **Java (Spring Boot)**, **.NET**, **Angular**, **MySQL**, **SQL Server**, **MongoDB** e **Azure DevOps**.
-
-Atuo com metodologias ágeis (Scrum e Kanban) e já trabalhei com **Apache Kafka**, integração contínua, versionamento com Git e práticas de Clean Code e SOLID.
-
-🧠 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** (UNINTER).
+Desenvolvedor de Software com foco em Backend, sempre buscando soluções bem estruturadas com arquitetura limpa, mensageria e escalabilidade.
 
 ---
 
-## 🚀 Tecnologias que uso no dia a dia
+## Sobre
 
-**Backend**
-- Java | Spring Boot
-- .NET
+Sou desenvolvedor full stack com maior afinidade no backend. Tenho atuado na construção de soluções performáticas, seguras e organizadas, utilizando tecnologias modernas e boas práticas de engenharia de software.
 
-**Frontend**
-- Angular
+Possuo 2 anos de experiência com Java (Spring Boot), .NET (C#), Angular, SQL Server, MongoDB e Azure DevOps. Já participei de projetos com arquitetura de microsserviços, comunicação assíncrona com Kafka e automação de pipelines CI/CD.
 
-**Banco de Dados**
-- MySQL | SQL Server
-
-**DevOps**
-- Git | GitHub | Azure DevOps
-- CI/CD
-
-**Outros**
-- REST APIs
-- Metodologias Ágeis (Scrum, Kanban)
-- Boas práticas de desenvolvimento (Clean Code, SOLID)
+Atualmente curso Análise e Desenvolvimento de Sistemas pela UNINTER e venho me aprofundando em arquitetura backend com Java, testes automatizados e práticas DevOps.
 
 ---
 
-## 📌 Em que estou focado atualmente
+## Tecnologias e Ferramentas
 
-- Me aprofundando em **desenvolvimento backend com Java**
-- Criando projetos práticos para consolidar meus conhecimentos
-- Aprimorando práticas de **CI/CD**, testes e arquitetura de microsserviços
-- Buscando oportunidades como **Desenvolvedor Backend Java Pleno**
+**Backend**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+**Frontend**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Banco de Dados**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**DevOps e Infraestrutura**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-003366?style=flat&logo=github-actions&logoColor=white)
+
+**Práticas de Engenharia**  
+APIs REST · Microsserviços · Apache Kafka · TDD · Clean Code · SOLID
+
+**Metodologias de Trabalho**  
+Scrum · Kanban · Code Review · Pair Programming
 
 ---
 
-## 📫 Onde me encontrar
+## Atualmente focado em
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/oeduardosartori/)
-- 💻 Repositórios em destaque logo abaixo 👇
-- ✉️ oeduardosartori@icloud.com
-- 🌍 Três Coroas – RS, Brasil
+- Aprofundamento em Java + Spring Boot com foco em backend robusto
+- Arquitetura de microsserviços e mensageria com Kafka
+- Estruturação de projetos reais com testes, CI/CD e boas práticas
+- Evolução constante como Desenvolvedor Backend Java Pleno
 
 ---
 
-> "Resolver problemas de forma prática e eficaz é o que me move na tecnologia."
+## Contato
 
-Obrigado por visitar meu perfil! 🚀
+- LinkedIn: [linkedin.com/in/oeduardosartori](https://www.linkedin.com/in/oeduardosartori/)
+- Email: oeduardosartori@icloud.com
+- Localização: Três Coroas – RS, Brasil
+
+---
+
+## GitHub Stats
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=oeduardosartori&hide=html&layout=compact&theme=dark)](https://github.com/oeduardosartori/)
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=oeduardosartori&show_icons=true&theme=dark)](https://github.com/oeduardosartori/)
