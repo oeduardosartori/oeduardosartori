@@ -43,7 +43,7 @@ Hoje mantenho aprendizado contínuo por meio de projetos pessoais, leitura técn
 APIs REST · Microsserviços · Apache Kafka · TDD · Clean Code · SOLID
 
 **Metodologias de Trabalho**  
-Scrum · Kanban · Code Review · Pair Programming
+Scrum · Kanban · Code Review
 
 ---
 
